@@ -19,6 +19,13 @@ The analysis was conducted by examining Elon Musk's most frequent words and phra
 
 ---
 
+## 📄 Full Analysis Report
+The complete, detailed qualitative analysis is available as a public document. This report provides a comprehensive examination of the rhetorical tactics and narrative themes discussed in this summary.
+
+➡️ **[Read the Full Report on Google Docs](https://docs.google.com/document/d/1P-1Z1xuBniYmP-2l0bEQuFYzMdMill95FPSpwiYcXAI/edit?usp=sharing)**
+
+---
+
 ## 🔑 Key Themes & Findings
 
 ### Theme 1: Building a Para-social Army
