@@ -34,7 +34,7 @@ The analysis was conducted by examining Elon Musk's most frequent words and phra
 ### Theme 3: Systematically Discrediting Critics
 * **Tactic:** Coining and popularizing dismissive terms like "legacy media" to preemptively invalidate any external criticism.
 * **Supporting Data:** The use of this phrase spikes dramatically during periods of negative press coverage, demonstrating its reactive and defensive nature.
-    ![Chart: Yearly Mentions of 'Legacy Media'](LegacyMedia_year/images/.png)
+    ![Chart: Yearly Mentions of 'Legacy Media'](images/LegacyMedia_year.png)
 * **Analysis:**
     > By framing established news organizations as "legacy media," Musk constructs a simple dichotomy: his unfiltered truth versus their outdated, biased agenda. This is a defensive strategy designed to attack the messenger rather than engage with the criticism itself. For his followers, it changes the question from "Is this critique of Elon valid?" to "Are the corrupt media attacking our visionary leader again?", thereby inoculating his audience against unfavorable information.
 
