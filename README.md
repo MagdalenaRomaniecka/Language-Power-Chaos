@@ -1,3 +1,4 @@
+*This repository is one of four components of a larger analysis. [View the main project hub, "The Musk Protocol," here.](https://github.com/MagdalenaRomaniecka/The-Musk-Protocol)*
 # Language-Power-Chaos
 A Qualitative Analysis of Elon Musk's Communication Strategy
 # Language, Power & Chaos
