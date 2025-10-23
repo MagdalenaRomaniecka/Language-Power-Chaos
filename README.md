@@ -60,6 +60,4 @@ Elon Musk's communication strategy is a masterclass in modern, digitally-native 
 ## 🔗 Link to Quantitative Data
 This qualitative study is the second phase of a two-part project. The initial data collection and frequency analysis can be found in the quantitative repository.
 
-➡️ **[View the Quantitative Analysis and Code Here](https://github.com/MagdalenaRomaniecka/Language-Power-Chaos/blob/main/notebooks/Frequency.ipynb)**
-
-➡️ **[View the Quantitative Analysis and Code Here](https://github.com/MagdalenaRomaniecka/Language-Power-Chaos/blob/main/notebooks/Frequency.ipynb)**
+➡️ **[View the Quantitative Analysis and Code Here](notebooks/Frequency.ipynb)**
