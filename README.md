@@ -57,8 +57,7 @@ The complete, detailed qualitative analysis is available as a public document. T
 Elon Musk's communication strategy is a masterclass in modern, digitally-native influence. By blending populist rhetoric with brand evangelism and a relentless assault on traditional information gatekeepers, he has successfully built a powerful narrative that he controls almost completely. This analysis reveals that behind the memes and provocations lies a calculated and replicable blueprint for shaping public reality.
 
 ---
-
 ## 🔗 Link to Quantitative Data
 This qualitative study is the second phase of a two-part project. The initial data collection and frequency analysis can be found in the quantitative repository.
 
-➡️ **[View the Quantitative Analysis and Code Here](musk_tweet_analysis(1).ipynb)**
+➡️ **[View the Quantitative Analysis and Code Here](https://github.com/MagdalenaRomaniecka/Language-Power-Chaos/blob/main/notebooks/Frequency.ipynb)**
