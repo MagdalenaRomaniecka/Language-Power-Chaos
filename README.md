@@ -6,8 +6,6 @@
 > ### ➤ [The Musk Protocol: A Multi-Layered Analysis of Influence](https://github.com/MagdalenaRomaniecka/The-Musk-Protocol-A-Multi-Layered-Analysis-of-Influence-)
 >
 > ---
-# Language-Power-Chaos
-A Qualitative Analysis of Elon Musk's Communication Strategy
 # Language, Power & Chaos
 ### A Qualitative Analysis of Elon Musk's Communication Strategy
 
